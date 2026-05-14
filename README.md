@@ -10,8 +10,11 @@
 
 ## 📖 About Me
 
-I'm a passionate developer from [Medellín/Colombia]. Currently I'm finishing my Full-Stack **[Javascript/Nodejs/React/TypeScript]** and following resources like **[Microsoft foundry, W3school, Anthropic, Big school, @soydalto, etc.]**.  
-I enjoy working with **[Agile or Scrum methodologies]** and solving real-world problems with code.
+I'm a Full-Stack Developer from [Medellín/Colombia] with a decade of experience as an ESL educator. This unique combination gives me a deep understanding of how language institutions operate – which is why I'm building a **multi-tenant SaaS platform** specifically for them.
+
+**Technologies I use** React, TypeScript, Node.js, Jest, and Git.
+
+I believe the best educational software is built by people who understand both code and classrooms."
 
 Outside of coding, I love **[Playing soccer, drawing and chilling out with friends and family]**.
 
