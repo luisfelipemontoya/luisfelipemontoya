@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luis Felipe Montoya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/www.linkedin.com/in/luis-felipe-montoya-munera-28725a49)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luis-felipe-montoya-munera-28725a49)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:luisfelipemontoya88@gmail.com)
 [![Researchgate](https://img.shields.io/badge/Research-Contributions-green)](https://www.researchgate.net/profile/Luis-M-2?ev=hdr_xprf)
 
