@@ -3,6 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luis-felipe-montoya-munera-28725a49)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:luisfelipemontoya88@gmail.com)
 [![Researchgate](https://img.shields.io/badge/Research-Contributions-green)](https://www.researchgate.net/profile/Luis-M-2?ev=hdr_xprf)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=68A063)
 
 **Status:** Open to work / Looking for my first dev job
 
