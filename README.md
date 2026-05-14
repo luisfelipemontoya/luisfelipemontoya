@@ -40,7 +40,7 @@ Outside of coding, I love **[Playing soccer, drawing and chilling out with frien
 
 *(Include even non‑developer jobs if you automated something or created a website)*
 
-- **Professional Researcher in Agricultural Practices** – [Corpoica, Colombia], [2013 - 2014]  
+**Professional Researcher in Agricultural Practices** – [Corpoica, Colombia], [2013 - 2014]  
 - In charge of leading and monitoring agricultural labor execution, collecting information, and writing reports, assisted by technologists and labor workers.
 
 **English teacher** – [Smart training society, Colombia], [2015 - 2026]  
