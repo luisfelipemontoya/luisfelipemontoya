@@ -78,7 +78,8 @@ Outside of coding, I love **[Playing soccer, drawing and chilling out with frien
   - HTML/CSS: good (flexbox, grid)  
 - **Frameworks (Web):**  
   - React: beginner (components, state)  
-  - Express: basic (simple REST routes)  
+  - Express: basic (simple REST routes)
+  - Webpack (basic configuration, loaders, plugins) 
 - **Libraries:**  
   - Lodash (utility functions), jQuery (basics), Cheerio, React Router, npm, Axios, jQuery (basics)  
 - **Documentation**	Node.js v26.1.0
