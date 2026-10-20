@@ -20,17 +20,16 @@ I'm a Full-Stack Developer from [Medellín/Colombia] with a decade of experience
 
 I believe the best educational software is built by people who understand both code and classrooms."
 
-Outside of coding, I love **[Playing soccer, drawing and chilling out with friends and family]**.
+Outside of coding, I love **Playing soccer, drawing and chilling out with friends and family**.
 
 ---
 
 ## 🎓 Education
 
-- **High School Recognition** (2004) Best Graduate for exceptional academic performance.
-- **Bachelor's in Agricultural engineering** (2011) – Politecnico Jaime Isaza Cadavid University.
-- **Specialization: Specialist in English Language Teaching** (2015) – Pontificia Bolivariana University.  
 - **Full-stack Development Bootcamp** (2025 – present) – Currently enrolled. Códica Latinoamérica.
-  
+- **Specialization: Specialist in English Language Teaching** (2015) – Pontificia Bolivariana University.  
+- **Bachelor's in Agricultural engineering** (2011) – Politecnico Jaime Isaza Cadavid University.
+ 
 ---
 
 ## 📚 Additional Education
@@ -45,15 +44,15 @@ Outside of coding, I love **[Playing soccer, drawing and chilling out with frien
 
 ## 💼 Work Experience
 
-**Professional Researcher in Agricultural Practices** – [Corpoica, Colombia], [2013 - 2014]  
-- In charge of leading and monitoring agricultural labor execution, collecting information, and writing reports, assisted by technologists and labor workers.
-
+**Freelance Projects**  [2025 - 2026] 
+- Currently developing a multi-tenant SaaS webpage for second language institutions.
+  
 **English teacher** – [Smart training society, Colombia], [2015 - 2026]  
 - Conducted regular classes, developed lesson plans, and assessed students' academic progress.
 - Member of the academic research group, leading three main projects.
 
-**Freelance Projects**  [2025 - 2026] 
-- Currently developing a multi-tenant SaaS webpage for second language institutions.
+**Professional Researcher in Agricultural Practices** – [Corpoica, Colombia], [2013 - 2014]  
+- In charge of leading and monitoring agricultural labor execution, collecting information, and writing reports, assisted by technologists and labor workers.
 
 ---
 
@@ -63,13 +62,13 @@ Outside of coding, I love **[Playing soccer, drawing and chilling out with frien
 - **Operating Systems:** Linux (Ubuntu, command line proficiency)  
 - **Networking:** TCP/IP, HTTP basics  
 - **Algorithms & Data Structures:** Arrays, hashmaps, recursion, sorting (practicing on https://app.codica.la/)  
-- **Databases:** SQL (PostgreSQL, SQLite)  
+- **Databases:** SQL (PostgreSQL, SQLite) – basic queries, schema design
 
 ### Applied Skills
 - **Control Version** Git / GitHub
 - **Runtime Environment** Node.js
-- **Testing & Quality Tools** Jest (unit testing – beginner), Swagger (API documentation), Qlty (formerly Code Climate), Nock (HTTP mocking for tests).
-- **API Mocking** (ej. MSW – Mock Service Worker, or similar)
+- **Containerization & DevOps:** Docker (basic)
+- **Testing & Quality Tools:** Jest (unit testing – basic), Swagger (API documentation), Qlty (formerly Code Climate), Nock (HTTP mocking), MSW (Mock Service Worker)
 - **Code Quality/Linting** ESLint
 - **Languages & proficiency:**  
   - JavaScript: intermediate JavaScript/TypeScript (ES6, DOM manipulation)  
@@ -77,10 +76,11 @@ Outside of coding, I love **[Playing soccer, drawing and chilling out with frien
 - **Frameworks (Web):**  
   - React: beginner (components, state)  
   - Express: basic (simple REST routes)
-  - Webpack (basic configuration, loaders, plugins) 
 - **Libraries:**  
-  - Lodash (utility functions), jQuery (basics), Cheerio, React Router, npm, Axios, jQuery (basics)  
-- **Documentation**	Node.js v26.1.0
+  - Lodash (utility functions), jQuery (basics), Cheerio, React Router, npm, Axios
+- **Build Tools & Package Managers:**
+  - Webpack (basic configuration, loaders, plugins), npm
+- **Documentation & Reference:** MDN Web Docs, Node.js Documentation
 
 ---
 
