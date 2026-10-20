@@ -99,4 +99,4 @@ Outside of coding, I love **Playing soccer, drawing and chilling out with friend
 - Learning API del DOM & Front-end arquitecture
 ---
 
-*This profile follows the recommendations of the GitHub profile guide. Last update: [14/05/2026]*
+*This profile follows the recommendations of the GitHub profile guide. Last update: [20/10/2026]*
