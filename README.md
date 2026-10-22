@@ -35,8 +35,8 @@ Outside of coding, I love **Playing soccer, drawing and chilling out with friend
 ## 📚 Additional Education
 
 - **Courses:**  
-  - Introduction to AI Development - Big School
-  - Teaching english Online & Apps for teaching and learning - Cambridge
+  - Introduction to AI Development (2026) - Big School 
+  - Teaching english Online & Apps for teaching and learning (2020) - Cambridge
 - **Certificates:**
   - TKT (Teaching knowledge test) awarded Band 3 in all three modules - Cambridge.
   - iTEP international English exam (2025) CERF level: B2.
