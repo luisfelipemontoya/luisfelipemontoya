@@ -14,9 +14,7 @@
 
 ## 📖 About Me
 
-I'm a Full-Stack Developer from [Medellín/Colombia] with a decade of experience as an ESL educator. This unique combination gives me a deep understanding of how language institutions operate – which is why I'm building a **multi-tenant SaaS platform** specifically for them.
-
-**Technologies I use** React, TypeScript, Node.js, Jest, and Git.
+I'm a Full-Stack Developer (React, TypeScript, Node.js) and ESL teacher for ten years. This unique combination gives me a deep understanding of how language institutions operate – which is why I'm building a **multi-tenant SaaS platform** specifically for them.
 
 I believe the best educational software is built by people who understand both code and classrooms."
 
